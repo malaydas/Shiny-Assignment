@@ -39,7 +39,7 @@ shinyUI(
                     to get the children's height. By default , default values will be displayed"),
              tags$p("Linear model creation and averaging the parents height has been declared as 
                     reactive statements. This is done to ensure that the model creation and average
-                    only happens when reauired.")
+                    only happens when required.")
            )
     
   )
